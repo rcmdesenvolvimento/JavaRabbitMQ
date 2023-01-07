@@ -1,0 +1,4 @@
+constants\RabbitMqconstants.class
+dto\PrecoDto.class
+org\example\Main.class
+dto\EstoqueDto.class
